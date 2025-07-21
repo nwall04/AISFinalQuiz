@@ -1,0 +1,922 @@
+{
+  "Chapter 7": [
+    {
+      "question": "Disruptive Technologies",
+      "options": [
+        "Force companies to adapt their operations to stay competitive",
+        "Have entered the market but are not yet regularly used by companies",
+        "Are difficult to analyze using traditional software tools",
+        "May eventually become an emerging technologies"
+      ],
+      "answer": "Force companies to adapt their operations to stay competitive"
+    },
+    {
+      "question": "When adopting new technologies, companies can safeguard their businesses from related risks by implementing policies and procedures and internal controls that identify, assess, and mitigate the risk. These include all of the following except",
+      "options": [
+        "Establishing an emerging technology center of excellence as part of the organizational structure",
+        "Auditing emerging technologies",
+        "Waiting to be one of the last companies to adopt a technology",
+        "Conducting enterprise-wide risk assessments"
+      ],
+      "answer": "Waiting to be one of the last companies to adopt a technology"
+    },
+    {
+      "question": "Emerging technologies",
+      "options": [
+        "Have entered the market and are now regularly used by companies",
+        "Will be adopted by companies to stay competitive",
+        "May become disruptive if successful",
+        "Will always become disruptive technologies"
+      ],
+      "answer": "May become disruptive if successful"
+    },
+    {
+      "question": "Autonomous Things (AuT) include",
+      "options": [
+        "ERP systems",
+        "Drones",
+        "Gamification",
+        "Head-mounted displays"
+      ],
+      "answer": "Drones"
+    },
+    {
+      "question": "Which of the following is not an example of gamification?",
+      "options": [
+        "Building graphics and video displays into simulations to teach wrookers about dangers at a factory",
+        "A competition among salespeople to earn points",
+        "Dressing up as a cow to promote a fast-food restaurant",
+        "Creating a game to teach students about managerial accounting"
+      ],
+      "answer": "Dressing up as a cow to promote a fast-food restaurant"
+    },
+    {
+      "question": "Sprit line beverages sponsors a contest for its programmers, with prizes for the winning teams. This is an example of _____ that is intended to _____.",
+      "options": [
+        "Online marketing, build social media data",
+        "Industrial espionage, build internal data",
+        "Gamification, build motivation and team rapport",
+        "Data mining, use big data"
+      ],
+      "answer": "Gamification, build motivation and team rapport"
+    },
+    {
+      "question": "Which of the following statements about robotic process automation (RPA) is false?",
+      "options": [
+        "Follows pre-programmed rules",
+        "Simulates human decision-making",
+        "Suitable for repetitive tasks",
+        "Always performs programmed tasks in the same way"
+      ],
+      "answer": "Simulates human decision-making"
+    },
+    {
+      "question": "Which of the following statements about Artificial Intelligence is false?",
+      "options": [
+        "Enables programmed tasks to evolve through self learning",
+        "Performs tasks associated with intelligent beings",
+        "Ideal for repetitive tasks",
+        "Simulates human decision making"
+      ],
+      "answer": "Ideal for repetitive tasks"
+    },
+    {
+      "question": "Using principles of a feasibility study, including cost-benefit analysis, select the use case that is least feasible for robotic process automation (RPA). The RPA solution",
+      "options": [
+        "Copies and pastes the prior years annual report disclaimer verbiage into the current years document",
+        "Reviews employee expense reimbursements and sends an email alert to finance employees for investigation upon detecting a red flag or fraud",
+        "Automatically retrieves and opens vendor invoices files received via email, identifies the key data in each invoice, and copies that data into the accounts payable system.",
+        "Automatically retrieves findings and recommendations directly from the internal audit system for each engagement and copies the text into a power point presentation"
+      ],
+      "answer": "Copies and pastes the prior years annual report disclaimer verbiage into the current years document"
+    },
+    {
+      "question": "Which of the following is true?",
+      "options": [
+        "Bitcoin trading is an example of robotic process automation",
+        "Bitcoin trading uses gamification",
+        "Bitcoin trades uses extended reality",
+        "Bitcoin trading uses blockchain technology"
+      ],
+      "answer": "Bitcoin trading uses blockchain technology"
+    },
+    {
+      "question": "Which underlying technology does blockchain not depend on?",
+      "options": [
+        "Network connectivity",
+        "Cryptology",
+        "Centralized ledgers",
+        "Distributed ledgers"
+      ],
+      "answer": "Centralized ledgers"
+    },
+    {
+      "question": "Which statement about blockchain technology is false>",
+      "options": [
+        "A record of a transaction cant be added to the blockchain without network consensus",
+        "A blockchain has nodes, which consist of the computers, laptops, or servers of all participants in the blockchain",
+        "Blockchain transactions can be updated at any time by participants in the blockchain",
+        "Blocks of ledgers are stored on nodes in the blockchain"
+      ],
+      "answer": "Blockchain transactions can be updated at any time by participants in the blockchain"
+    },
+    {
+      "question": "Which statement about blockchain technology is false?",
+      "options": [
+        "Participants need permission to join public blockchains",
+        "Public blockchains require proof of work",
+        "Public blockchains are transparent",
+        "Public blockchains are immutable"
+      ],
+      "answer": "Participants need permission to join public blockchains"
+    },
+    {
+      "question": "Compared to traditional ledgers, blockchain systems have the following advantage from a data perspective:",
+      "options": [
+        "Data retention: Backups of blockchain data are more restrictive",
+        "Data security: a majority of participants in a blockchain must engage in fraud malfeasance for the fraud to be successful",
+        "Data verification: blockchain transactions are approved by an accounting manager",
+        "Data integrity: a blockchain system relies on an object-oriented database for storage"
+      ],
+      "answer": "Data security: a majority of participants in a blockchain must engage in fraud malfeasance for the fraud to be successful"
+    },
+    {
+      "question": "From the perspective of the accounting profession. A blockchain technology is:",
+      "options": [
+        "An emerging technology",
+        "A mature and widely accepted technology",
+        "A disruptive technology",
+        "A technology that requires trusted third-party intermediaries"
+      ],
+      "answer": "A disruptive technology"
+    },
+    {
+      "question": "Anna wires money from her bank account to her brother Garin in Australia for a fee of $35. The role of her bank is that of",
+      "options": [
+        "Intermediary",
+        "Miner",
+        "Blockchain participant",
+        "Payee"
+      ],
+      "answer": "Intermediary"
+    },
+    {
+      "question": "Business transformation through blockchain is likely to occur ____ and requires ____ adoption",
+      "options": [
+        "Quickly, supplier",
+        "Eventually, widespread",
+        "Eventually, supplier",
+        "Quickly, widespread"
+      ],
+      "answer": "Eventually, widespread"
+    },
+    {
+      "question": "Which of the following is an important outcome of the use of blockchain?",
+      "options": [
+        "Closed-from accounting",
+        "Reduced auditing and compliance costs",
+        "Increased centralization of accounting systems",
+        "Impenetrable authentication"
+      ],
+      "answer": "Reduced auditing and compliance costs"
+    },
+    {
+      "question": "At mega-construction, secured payments are sent to suppliers as soon as materials are received and scanned. Many attributes of the received goods are also scanned and recorded immediately on receipt. The information is shared through a distributed ledger. Mega-Consutrction is likely using ____.",
+      "options": [
+        "Blockchain",
+        "TCP/IP",
+        "Bitcoin",
+        "STAMP"
+      ],
+      "answer": "Blockchain"
+    }
+  ],
+  "Chapter 8": [
+    {
+      "question": "Which of the following is a benefit of clear documentation of systems and processes?",
+      "options": [
+        "Longer training of employees",
+        "Hiring of consultants",
+        "Management override of controls",
+        "Systemic repetition and consistency in operations"
+      ],
+      "answer": "Systemic repetition and consistency in operations"
+    },
+    {
+      "question": "How an documentation benefit employees?",
+      "options": [
+        "By increasing the time necessary to perform a task",
+        "By helping them understand what to do when faced with uncertainties or problems",
+        "By creating the need for additional oversight from management",
+        "By providing minimal information on the systems used"
+      ],
+      "answer": "By helping them understand what to do when faced with uncertainties or problems"
+    },
+    {
+      "question": "What is the importance of a record retention plan?",
+      "options": [
+        "Identifying documents to be maintained or destroyed",
+        "Providing insights into system operations",
+        "Creating roadmaps for process improvements",
+        "Keeping records with low importance to the organization"
+      ],
+      "answer": "Identifying documents to be maintained or destroyed"
+    },
+    {
+      "question": "Which of the following is an example of an item that is captured in program documentation?",
+      "options": [
+        "User interface",
+        "Error messages",
+        "Input data and information output",
+        "System features"
+      ],
+      "answer": "Input data and information output"
+    },
+    {
+      "question": "Sad Reginald wrote software for the Valencia Clown Revue. One fine day, however, having grown tired of computers and software, he became a juggler, fire eater, and fainting goat performer. After his departure, the Valencia Clown Revue was unable to maintain and upgrade the systems that Sad Reginald had written. The best control for preventing this failure would be:",
+      "options": [
+        "automated accruals and deferrals",
+        "user documentation",
+        "operator documentation",
+        "program documentation"
+      ],
+      "answer": "program documentation"
+    },
+    {
+      "question": "Rose and McMullin, a regional accounting firm, has recently accepted a contract to audit On the Spot, Inc. a mobile vending service that provides vending machines for large events. On the Spot uses a computerized accounting system, portions of which were developed internally to integrate with a standard reporting system that was purchased from a consultant. What type of documentation would be most useful to the auditors in determining how the system as a whole is constructed?",
+      "options": [
+        "operator documentation",
+        "program documentation",
+        "systems documentation",
+        "user documentation"
+      ],
+      "answer": "systems documentation"
+    },
+    {
+      "question": "What is the purpose of an entity relationship diagram (ERD)?",
+      "options": [
+        "Showing an outline of the organization",
+        "Providing a graphical representation of tables and relationships",
+        "Showing the flow of data through the system",
+        "Providing process documentation"
+      ],
+      "answer": "Providing a graphical representation of tables and relationships"
+    },
+    {
+      "question": "How do organizational charts help an organization?",
+      "options": [
+        "They define process detail",
+        "They quickly transform data into information",
+        "They depict reporting relationships",
+        "They describe relationships in detail"
+      ],
+      "answer": "They depict reporting relationships"
+    },
+    {
+      "question": "Auditors also refer to questionnaires as:",
+      "options": [
+        "Org charts",
+        "Process question forms",
+        "Checklists",
+        "Vertical graphs"
+      ],
+      "answer": "Checklists"
+    },
+    {
+      "question": "Which of the following is not a type of flowchart?",
+      "options": [
+        "Document",
+        "System",
+        "Process",
+        "Data"
+      ],
+      "answer": "Data"
+    },
+    {
+      "question": "How can a flowchart help with the evaluation of controls?",
+      "options": [
+        "Identify control weaknesses",
+        "Identify process improvements",
+        "Identify project plans",
+        "Identify decision points"
+      ],
+      "answer": "Identify control weaknesses"
+    },
+    {
+      "question": "How is a flowline represented in a flowchart?",
+      "options": [
+        "As parallel lines",
+        "As a circle",
+        "As a line with an arrow",
+        "As a diamond"
+      ],
+      "answer": "As a line with an arrow"
+    },
+    {
+      "question": "How is a connector represented in a flowchart?",
+      "options": [
+        "As a line with an arrow",
+        "As a circle",
+        "As a triangle",
+        "As a square"
+      ],
+      "answer": "As a circle"
+    },
+    {
+      "question": "What does the decision shape represent in a flowchart?",
+      "options": [
+        "A) Questions to be answered",
+        "B) materials coming into or out of the process",
+        "C) Data used in the process",
+        "D) a manual input"
+      ],
+      "answer": "A) Questions to be answered"
+    },
+    {
+      "question": "What does a DFD represent?",
+      "options": [
+        "Execution of computer code",
+        "Management decision points",
+        "Information flow within a process or system",
+        "Roles and responsibilities within a process"
+      ],
+      "answer": "Information flow within a process or system"
+    },
+    {
+      "question": "Within a DFD, which level highlights the main system functions?",
+      "options": [
+        "Level 0",
+        "Level 3",
+        "Level 2",
+        "Level 1"
+      ],
+      "answer": "Level 1"
+    },
+    {
+      "question": "A data flow diagram helps a user understand",
+      "options": [
+        "The sources of data in a system and the destinations of that data",
+        "The flow of documents through an organization",
+        "The processing steps in an AIS",
+        "The processing logic of application programs"
+      ],
+      "answer": "The sources of data in a system and the destinations of that data"
+    }
+  ],
+  "Chapter 14": [
+    {
+      "question": "What is the most widely used internation standard for IT governance?",
+      "options": [
+        "ISACA",
+        "COSO ERM",
+        "COBIT",
+        "COSO internal control \u2013 integrated framework"
+      ],
+      "answer": "COBIT"
+    },
+    {
+      "question": "Select the statement that is not true about COBIT 2019.",
+      "options": [
+        "Its organizational focus is IT governance",
+        "It focuses on all controls for assessing risk and providing assurance throughout an organization",
+        "It is a living document that welcomes feedback",
+        "It has five domains and 40 control objectives"
+      ],
+      "answer": "It focuses on all controls for assessing risk and providing assurance throughout an organization"
+    },
+    {
+      "question": "Which item is not an objective of the IT Evaluate, Direct, and Monitor domain?",
+      "options": [
+        "Ensure IT governance framework setting and maintenance",
+        "Ensure IT risk realization",
+        "Ensure stakeholder transparency",
+        "Manage an IT system of internal control"
+      ],
+      "answer": "Manage an IT system of internal control"
+    },
+    {
+      "question": "One important purpose of COBIT is to",
+      "options": [
+        "Guide managers, users, and auditors in adopting best practices related to the management of information technology",
+        "Identify specific control plans that could be implemented to reduce the occurrence of fraud",
+        "Specify the components of an information system that should be installed in an e-commerce environment",
+        "Suggests the type of information should be made available for management decision making"
+      ],
+      "answer": "Guide managers, users, and auditors in adopting best practices related to the management of information technology"
+    },
+    {
+      "question": "Which of these logical access controls relates to authorization rather than authentication?",
+      "options": [
+        "Role-based access",
+        "Username and password",
+        "Fingerprint scan",
+        "Smart card"
+      ],
+      "answer": "Role-based access"
+    },
+    {
+      "question": "Which of these access roles would you assign to the internal audit manager of a public company?",
+      "options": [
+        "Administration",
+        "Creator",
+        "Read-only",
+        "Manager"
+      ],
+      "answer": "Read-only"
+    },
+    {
+      "question": "Eleanor Rigby\u2019s Crematorium and Pest Custodian Services wants to choose the strongest control method for accessing its systems. They should choose:",
+      "options": [
+        "A sign-in log",
+        "Biometrics",
+        "Passwords",
+        "A two-way mirror"
+      ],
+      "answer": "Biometrics"
+    },
+    {
+      "question": "When a client\u2019s accounts payable computer system was relocated, the administrator provided support through the dial-up connection to a server. Subsequently, the administrator left the company. No changes were made to the accounts payable system at the time. Which of the following situations represents the greater security risks?",
+      "options": [
+        "User passwords are not required to be in alphanumeric format",
+        "Management procedures for user accounts are not documented",
+        "User accounts are not removed upon the termination of employees",
+        "Security logs are not periodically reviewed for violations"
+      ],
+      "answer": "User accounts are not removed upon the termination of employees"
+    },
+    {
+      "question": "Why did Amazon and Google choose not to build their new data centers near their headquarters?",
+      "options": [
+        "It wasn\u2019t financially feasible",
+        "They already owned land elsewhere",
+        "It was against regulations",
+        "They plan to leave those areas and relocate their headquarters"
+      ],
+      "answer": "It wasn\u2019t financially feasible"
+    },
+    {
+      "question": "A security guard opens the door to allow an authenticated person into the data center. A second person enters behind the first person without properly scanning through security. This method of circumventing physical access controls is called",
+      "options": [
+        "Piggybacking or tailgating",
+        "The access control vestibule",
+        "A backup plan",
+        "Unlawful access"
+      ],
+      "answer": "Piggybacking or tailgating"
+    },
+    {
+      "question": "Which of the following best characterizes the function of a physical access control?",
+      "options": [
+        "Protects systems from Trojan horses",
+        "Provides authentication of users attempting to log into the system",
+        "Separates unauthorized individuals from computer resources",
+        "Minimizes the risk of a power or hardware failure"
+      ],
+      "answer": "Separates unauthorized individuals from computer resources"
+    },
+    {
+      "question": "The inside environment of a data center should include all of the following except",
+      "options": [
+        "Cable management system",
+        "Backup power supply",
+        "Fire response systems",
+        "Heated floors"
+      ],
+      "answer": "Heated floors"
+    },
+    {
+      "question": "Which of these is not an advantage of a hot backup site?",
+      "options": [
+        "It is the most affordable option",
+        "The data backup process is integrated into the site",
+        "Immediate data recovery is possible",
+        "There is an immediate ramp-up to operations\\"
+      ],
+      "answer": "It is the most affordable option"
+    },
+    {
+      "question": "A controller is developing a disaster recovery plan for a corporation\u2019s computer systems. In the event of a disaster that makes the company\u2019s facilities unusable, the controller has arranged for the use of an alternative location and the delivery of duplicate computer hardware to this alternative location. Which of the following recovery plans would best describe this arrangement?",
+      "options": [
+        "A) hot site",
+        "B) Cold site",
+        "C) Backup site",
+        "D) hot spare site agreement"
+      ],
+      "answer": "B) Cold site"
+    },
+    {
+      "question": "Which is true of the differential backup strategy?",
+      "options": [
+        "It has the slowest backup time",
+        "It backs up all data since the last full backup",
+        "It backs up only the new data since the most recent backup of any type",
+        "It uses the highest amount of storage space"
+      ],
+      "answer": "It backs up all data since the last full backup"
+    },
+    {
+      "question": "Womping Wembley Corp maintains three sets of backups, which are updated monthly, weekly, and daily. This approach illustrates a",
+      "options": [
+        "Checkpoint and restart approach",
+        "RAID approach",
+        "Redundant backup approach",
+        "Storage area network (SAN) approach"
+      ],
+      "answer": "Redundant backup approach"
+    },
+    {
+      "question": "The three stages in a change management process, in consecutive order are",
+      "options": [
+        "Production, test, model",
+        "Test, model, production",
+        "Model, test, implement",
+        "Produce, test, model"
+      ],
+      "answer": "Test, model, production"
+    },
+    {
+      "question": "The user reviews the outcome of some code. If the outcome is accurate, the user approves the change. The IT analyst tests the functionality of the code and authorizes it. The analyst then documents the testing. What stage of the change management process does this describe?",
+      "options": [
+        "Production",
+        "Implementation",
+        "Model",
+        "Test"
+      ],
+      "answer": "Model"
+    },
+    {
+      "question": "Only _____ have access to the test environment.",
+      "options": [
+        "End users",
+        "Company leaders",
+        "Developers",
+        "Data analysts"
+      ],
+      "answer": "Developers"
+    }
+  ],
+  "Chapter 15": [
+    {
+      "question": "Which of the following scenarios is not an example of a behavioral fraud red flag?",
+      "options": [
+        "Your coworker complains he didn\u2019t get a large enough bonus this year and wont be able to afford his sons soccer registration",
+        "Your coworker dislikes your manager and regularly complains about her",
+        "Your coworker brags about buying a new house in one of the most expensive parts of town, where a lot of the company\u2019s executives live",
+        "Your coworker never takes vacation days or sick days because nobody else could do his job right"
+      ],
+      "answer": "Your coworker dislikes your manager and regularly complains about her"
+    },
+    {
+      "question": "Corruption fraud schemes include",
+      "options": [
+        "Asset misappropriation, financial statement fraud, conflicts of interest, and illegal gratuities",
+        "Economic extortion, illegal gratuities, asset misappropriation, and expense reimbursement fraud",
+        "Asset misappropriation, bribery, stolen cash, billing schemes",
+        "Bribery, conflict of interest, economic extortion, and illegal gratuities"
+      ],
+      "answer": "Bribery, conflict of interest, economic extortion, and illegal gratuities"
+    },
+    {
+      "question": "Which of these is not a component of fraud?",
+      "options": [
+        "Concealment",
+        "Act",
+        "Damages",
+        "Conversion"
+      ],
+      "answer": "Damages"
+    },
+    {
+      "question": "Which of the following is correct concerning a fraud risk factor?",
+      "options": [
+        "Its presence indicates that the risk of fraud is high",
+        "It has been observed in circumstances where frauds has occurred",
+        "It always requires modification of planned audit procedures",
+        "It is also a material weakness in internal control"
+      ],
+      "answer": "It has been observed in circumstances where frauds has occurred"
+    },
+    {
+      "question": "\u201cThe company is so large it wont event notice it\u201d is a type of",
+      "options": [
+        "Opportunity",
+        "Concealment",
+        "Perceived pressure",
+        "Rationalization"
+      ],
+      "answer": "Rationalization"
+    },
+    {
+      "question": "The first behavioural element in the fraud triangle is",
+      "options": [
+        "Perceived pressure",
+        "Opportunity",
+        "Rationalization",
+        "Conversion"
+      ],
+      "answer": "Perceived pressure"
+    },
+    {
+      "question": "The element of the fraud triangle that a company has most influence over is",
+      "options": [
+        "Rationalization",
+        "Management perceptions of fraud",
+        "Opportunity",
+        "Perceived pressure"
+      ],
+      "answer": "Opportunity"
+    },
+    {
+      "question": "If perceived pressure and opportunity to commit fraud are high and personal integrity is low, then the risk of fraud is",
+      "options": [
+        "Low",
+        "Medium",
+        "High",
+        "Certain"
+      ],
+      "answer": "High"
+    },
+    {
+      "question": "The most difficult asset misappropriation fraud scheme to detect, because it leaves not starting point or audit trail for audits to investigate, is",
+      "options": [
+        "Non-cash larceny",
+        "Skimming",
+        "Fraudulent disbursements",
+        "Expense reimbursement fraud"
+      ],
+      "answer": "Skimming"
+    },
+    {
+      "question": "An example of asset misappropriation scheme is",
+      "options": [
+        "Larceny",
+        "Economic extortion",
+        "Illegal gratuities",
+        "Fictitious revenue"
+      ],
+      "answer": "Larceny"
+    },
+    {
+      "question": "A major difference between skimming and cash larceny is that:",
+      "options": [
+        "Skimming is on the books, while larceny is off the books",
+        "Skimming occurs after the cash has been entered into the accounting system, while larceny occurs before it is entered",
+        "Larceny involves expense reimbursement schemes, while skimming involves recording fictitious revenue",
+        "Larceny occurs after both the transaction and the cash have been entered into the accounting system, while skimming occurs without the transaction being entered into the system"
+      ],
+      "answer": "Larceny occurs after both the transaction and the cash have been entered into the accounting system, while skimming occurs without the transaction being entered into the system"
+    },
+    {
+      "question": "The major classes of asset misappropriation are",
+      "options": [
+        "Skimming, larceny, and fraudulent disbursements",
+        "Skimming, double dipping, and payroll fraud",
+        "Skimming, fraudulent disbursements, and vendor fraud",
+        "Skimming, larceny, and corruption"
+      ],
+      "answer": "Skimming, larceny, and fraudulent disbursements"
+    },
+    {
+      "question": "Which of the following is an example of fraudulent financial reporting?",
+      "options": [
+        "Company management changes inventory count tags and overstates ending inventory while understating COGS",
+        "The treasurer diverts customer payments to his personal bank account, concealing his actions by debiting an expense account, thus overstating expenses",
+        "An employee steals inventory, and the shrinkage is recorded in COGS",
+        "An employee steals small tools from the company and neglects to return them, the cost is reported and miscellaneous operating expense"
+      ],
+      "answer": "Company management changes inventory count tags and overstates ending inventory while understating COGS"
+    },
+    {
+      "question": "An example of a pressure to commit financial statement fraud is",
+      "options": [
+        "Personal habits such as gambling or drug use",
+        "An employee bearing a grudge against the employer",
+        "Unreasonable performance metrics set by management",
+        "Reasonably expecting the fraud to go undetected"
+      ],
+      "answer": "Unreasonable performance metrics set by management"
+    },
+    {
+      "question": "A fraud committed to lessen the amount of earings that will be teaxedd this year is an example of",
+      "options": [
+        "Misappropriation of assets",
+        "Financial statement fraud that understates the company\u2019s performance",
+        "Financial statement fraud that overstates company\u2019s performance",
+        "Skimming cash before it is recorded in the company\u2019s accounting books"
+      ],
+      "answer": "Financial statement fraud that understates the company\u2019s performance"
+    },
+    {
+      "question": "The fraud in which a company inflates its sales revenue by forcing more products through a distribution channel than the channel is capable of selling is called",
+      "options": [
+        "Unauthorized sales",
+        "Sham sales",
+        "Cutoff fraud",
+        "Channel stuffing"
+      ],
+      "answer": "Channel stuffing"
+    }
+  ],
+  "Chapter 16": [
+    {
+      "question": "In 2017, Equifax made global news when hackers",
+      "options": [
+        "Used Trojan horses to access its networks",
+        "Held a system hostage for ransom",
+        "Accessed financial data of millions of Americans",
+        "Deleted millions of records containing customer data"
+      ],
+      "answer": "Accessed financial data of millions of Americans"
+    },
+    {
+      "question": "The Cybersecurity and Infrastructure Agency (CISA) recommends that companies facing cyberattacks that include ransom demands",
+      "options": [
+        "Refuse to pay to discourage future attacks",
+        "Pay immediately to protect public interests",
+        "Consult lawyers before negotiating with criminals",
+        "Consult NIST 800-53 for guidelines on negotiations"
+      ],
+      "answer": "Refuse to pay to discourage future attacks"
+    },
+    {
+      "question": "Cyberattacks are",
+      "options": [
+        "Preventable",
+        "Addressed in the original COSO pronouncements",
+        "Assumable",
+        "Inevitable"
+      ],
+      "answer": "Inevitable"
+    },
+    {
+      "question": "Managing cyber risks requires",
+      "options": [
+        "Blocking all cyber breaching by relying on preventive controls",
+        "Blocking all cyber breaching by relying on detective and corrective controls",
+        "Attempting to prevent cyber breaching but addressing those that occur through detective and corrective controls",
+        "Attempting to prevent cyber breaching but addressing those that occur through preventive controls"
+      ],
+      "answer": "Attempting to prevent cyber breaching but addressing those that occur through detective and corrective controls"
+    },
+    {
+      "question": "Who plays a pivotal role in a comapnys cybersecurity program?",
+      "options": [
+        "Chief Information Officer",
+        "Chief Financial Officer",
+        "Chief Executive Officer",
+        "All of these"
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question": "The IT department at Piggy Parts BBQ has recently learned of phishing attempts that rely on social engineering to break into its financial system. Information abou these attempts should be communicated to",
+      "options": [
+        "Internal auditors",
+        "Other personnel",
+        "All personnel",
+        "Support functions"
+      ],
+      "answer": "All personnel"
+    },
+    {
+      "question": "Which of the following is not a method of attack used in the process of a full cyberattack?",
+      "options": [
+        "Reconnaissance",
+        "Disruption",
+        "Distancing",
+        "Access"
+      ],
+      "answer": "Distancing"
+    },
+    {
+      "question": "Which type of attack do network administrators not have control over preventing?",
+      "options": [
+        "Logical attacks",
+        "Reconnaissance attacks",
+        "Physical attacks",
+        "Access attacks"
+      ],
+      "answer": "Physical attacks"
+    },
+    {
+      "question": "Incorrect sender addresses are red flags indicating possible",
+      "options": [
+        "Eavesdropping",
+        "Phishing",
+        "Dumpster Diving",
+        "Ping sweeps"
+      ],
+      "answer": "Phishing"
+    },
+    {
+      "question": "_____ identifies active IP addresses, while ____ identifies the types of communication occurring on the network.",
+      "options": [
+        "Eavesdropping, phishing",
+        "Phishing, port scanning",
+        "Port scanning, ping sweeping",
+        "Ping sweeping, port scanning"
+      ],
+      "answer": "Ping sweeping, port scanning"
+    },
+    {
+      "question": "An auditor was examining a client\u2019s network and discovered that the users did not have password protection. Which of the following would be the best example of a strong network password?",
+      "options": [
+        "Trjynpqs",
+        "34787761",
+        "tr34ju78",
+        "tR34ju78"
+      ],
+      "answer": "tR34ju78"
+    },
+    {
+      "question": "In ____ tailgating, the authorized user holds the door open for the tailgater",
+      "options": [
+        "Accidental",
+        "Spoofing",
+        "Polite",
+        "Forced"
+      ],
+      "answer": "Polite"
+    },
+    {
+      "question": "The difference between eavesdropping and on-path attacks is that eavesdropping is _____ the communication, and an on-path attack is _____the communication.",
+      "options": [
+        "Writing over, injecting into",
+        "Listening to, writing over",
+        "Injecting into, listening to",
+        "Listening to, injecting into"
+      ],
+      "answer": "Listening to, injecting into"
+    },
+    {
+      "question": "IP spoofing disguises the ____ source address with the _____ IP address.",
+      "options": [
+        "Attackers, targets",
+        "Targets, attackers",
+        "Recipients, targets",
+        "Attackers, recipients"
+      ],
+      "answer": "Attackers, targets"
+    },
+    {
+      "question": "A company\u2019s web server has been overwhelmed with a sudden surge of false requests that caused the server to crash. The company has most likely been the target of",
+      "options": [
+        "Spoofing",
+        "Piggybacking",
+        "An eavesdropping attack",
+        "A denial-of-service (DNS) attack"
+      ],
+      "answer": "A denial-of-service (DNS) attack"
+    },
+    {
+      "question": "Which of the following is true of about denial-of-service- attacks?\nI. A denial of service attack takes advantage of a network communications protocol to tie up the server\u2019s communication ports so that legitimate users cannot gain access to the server.\nII. If the denial-of-service attack is successful, the attacker can gain access to unprotected resources on the server.",
+      "options": [
+        "A) I only",
+        "B) II only",
+        "C) Both I and II",
+        "D) Neither I nor II"
+      ],
+      "answer": "A) I only"
+    },
+    {
+      "question": "Which of the following is a computer program that appears to be legitimate but performs an illicit action when it is run?",
+      "options": [
+        "Redundant verification",
+        "Parallel count",
+        "Web crawler",
+        "Trojan horse"
+      ],
+      "answer": "Trojan horse"
+    },
+    {
+      "question": "Which of the following is not one of the ways tha the Equifax hackers hid their suspicious network activity?",
+      "options": [
+        "Purchased subscriptions to Equifax\u2019s third-party software service",
+        "Created profiles using Equifax employee credentials",
+        "Purchases remote computing services from other countries",
+        "Blended into normal activity within an encrypted communication channels"
+      ],
+      "answer": "Purchased subscriptions to Equifax\u2019s third-party software service"
+    },
+    {
+      "question": "IP spoofing is often used as part of which of the following?",
+      "options": [
+        "Viruses",
+        "Trojan Horses",
+        "Worms",
+        "Denial-of-services attacks"
+      ],
+      "answer": "Denial-of-services attacks"
+    },
+    {
+      "question": "What is the primary difference between a virus and a worm?",
+      "options": [
+        "Viruses require human interaction, but worms replicate without assistance",
+        "Viruses must be activated before a worm can replicate",
+        "Viruses are only effective on windows operating systems",
+        "Viruses are a type of malware, but worms are a type of denial-of-service attack3"
+      ],
+      "answer": "Viruses require human interaction, but worms replicate without assistance"
+    }
+  ]
+}
